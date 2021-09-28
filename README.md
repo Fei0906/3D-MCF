@@ -13,9 +13,9 @@ Please read matlab/InputParameters.m for more details. Currently, the updated co
 
 3.Optimization
 
-Currently, we are using a built-in function 'linprog' in Matlab to solve our equation, which however is time and memory consuming. In addition, if you are using Matlab version after 2012a (the version which we used to develop our code), you may need to add the 'optim' dir to your path as the 'linprog' function has updated and may casue some problems in the later version.
+Currently, we are using a built-in function 'linprog' in Matlab to solve our equation, which however is time and memory consuming. If you know any other solutions, please let me know (liufei.whu@gmail.com). In addition, if you are using Matlab version after 2012a (the version which we used to develop our code), you may need to add the 'optim' dir to your path as the 'linprog' function has updated and may casue some problems in the later Matlab version.
 
-If you know any other solutions, please let me know (liufei.whu@gmail.com).
+
 
 
 
